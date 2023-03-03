@@ -1,7 +1,7 @@
 # Finance Web Application
 
 ## About
-This is a finance web applicaiton that helps users break down their paycheck
+This is a finance web applicaiton that helps users breakdown their paycheck
 
 ## Features
 * Visualize Income Projections post tax
