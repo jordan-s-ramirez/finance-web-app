@@ -25,3 +25,6 @@ This is a finance web applicaiton that helps users break down their paycheck
     ```shell
     npm run develop
     ```
+
+## Photo Examples
+![Webpage](./gitImages/webpage.png)
